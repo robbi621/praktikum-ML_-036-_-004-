@@ -1,5 +1,14 @@
-# praktikum-ML
+# Deteksi Diabetes Berdasarkan Gambar Thermogram Telapak Kaki
+> Oleh :
+> - Robbi Adam Raditya (2018-003)
+> - A Wildani Nuruz Zaman (2018-004)
 
-oleh :
-Robbi Adam Raditya
-A Wildani Nuruz Zaman
+
+
+## Acknowledgements
+
+
+
+
+## Authors
+
