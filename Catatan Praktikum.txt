@@ -1,0 +1,18 @@
+Sprint Project:
+- tanggal mulai 
+- ekspektasi tanggal selesai
+- tanggal selesai
+- kendala
+- solusi
+- break down task sesuai modul praktikum
+
+- Salah jurnal tidak boleh conference
+- Break down tugas masing2 anggota tidak jelas.
+- Modeling harus di break down
+- Save model belum ada
+- Gaboleh pake transfer learning (modul 2)
+- Buat branch selain main untuk maintenance 
+MAIN:
+Robbi: branch untuk Robbi ngerjain task nya
+Wildan: branch untuk Wildan ngerjain task nya
+Debug: branch untuk debug coding.
